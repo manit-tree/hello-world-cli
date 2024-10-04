@@ -6,3 +6,6 @@ Starting template for develop CLI using node.js
 
 ![image](https://github.com/user-attachments/assets/bd4447ea-4415-4087-97e4-1b79b19e5bb1)
 
+## index.js
+
+![image](https://github.com/user-attachments/assets/e287a2fe-5a2b-4c47-a2e7-2e69de969bf9)
