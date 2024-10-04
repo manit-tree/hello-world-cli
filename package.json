@@ -1,0 +1,15 @@
+{
+  "name": "hello-world-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "node ./bin/index.js"
+  },
+  "keywords": [],
+  "author": "Mr.Manit Treeprapankit",
+  "license": "MIT",
+  "bin": {
+    "hello-world": "./bin/index.js"
+  }
+}
